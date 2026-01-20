@@ -59,11 +59,7 @@ The Tableau dashboard includes:
 
 ---
 
-## 🚀 How to Use
 
-1. Download or clone this repository  
-2. Open the `.twbx` / `.twb` file in **Tableau Desktop / Tableau Public**  
-3. Explore the interactive dashboard  
 
 ---
 
@@ -77,10 +73,6 @@ The Tableau dashboard includes:
 
 ## 👤 Author
 
-**Arjun Gawande**  
-📍 Data Science & Analytics Enthusiast  
-🔗 GitHub: [Your GitHub Profile Link Here]
+
 
 ---
-
-⭐ If you like this project, feel free to star the repo and share feedback!
