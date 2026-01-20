@@ -1,5 +1,4 @@
-# adidas-sales-analysis-tableau
-“Interactive Tableau dashboard analyzing Adidas sales performance, trends, and regional insights using real-world retail data.”
+
 # Adidas Sales Analysis using Tableau 📊
 
 This project focuses on analyzing Adidas sales data and creating an interactive dashboard using **Tableau** to uncover insights related to revenue, products, regions, and customer trends.
