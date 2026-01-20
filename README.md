@@ -1,11 +1,11 @@
 
-# Adidas Sales Analysis using Tableau 📊
+# Adidas Sales Analysis using Tableau 
 
 This project focuses on analyzing Adidas sales data and creating an interactive dashboard using **Tableau** to uncover insights related to revenue, products, regions, and customer trends.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to:
 - Understand sales performance of Adidas products
@@ -15,7 +15,7 @@ The goal of this project is to:
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 The dataset includes information such as:
 - Order Date  
@@ -39,18 +39,18 @@ The dataset includes information such as:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 The Tableau dashboard includes:
-- 📈 Sales & Profit Trends  
-- 🌍 Region-wise Sales Analysis  
-- 🛍️ Category & Product Performance  
-- 📆 Time-based Filtering  
-- 🎯 KPI Cards for key metrics  
+-  Sales & Profit Trends  
+-  Region-wise Sales Analysis  
+-  Category & Product Performance  
+-  Time-based Filtering  
+-  KPI Cards for key metrics  
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Identified top-selling products and regions  
 - Found seasonal trends in Adidas sales  
